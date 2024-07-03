@@ -1,0 +1,11 @@
+{
+  "name": "@eldoghry/ticketing-common",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Magdy",
+  "license": "ISC",
+  "description": "Comman package used on ticketing-app.dev project"
+}
